@@ -1,0 +1,17 @@
+First Attempt
+
+	Did Feature Engineering and submitted 
+	Score 0.26071
+
+Second Attempt
+	Increased model capacity
+	Ensemble of median rather than mean
+	Score 0.19213
+
+Third Attempt
+	Increased model capacity
+	Score 0.16078
+
+Fouth Attempt
+	Increased model capacity 
+*	Score reduced 0.16756
